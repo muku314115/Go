@@ -1,3 +1,3 @@
-module github.com/muku314115/gobitch
+module github.com/muku314115/Go
 
 go 1.19
